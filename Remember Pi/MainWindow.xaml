@@ -1,0 +1,13 @@
+﻿<Window x:Class="Remember_Pi.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Remember Pi" Height="300" Width="300"
+        >
+    <Grid>
+        <Button Name="btn_linear" Content="Remember pi" HorizontalAlignment="Left" Margin="96,132,0,0" VerticalAlignment="Top" Width="93" Click="btn_linear_Click"/>
+        <Button Name="btn_tutorial" Content="Tutorial" HorizontalAlignment="Left" Margin="96,89,0,0" VerticalAlignment="Top" Width="93" Click="btn_tutorial_Click"/>
+        <Label Content="MENU" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="48" Margin="72,10,0,0"/>
+        <Button Name="btn_exit" Content="Exit" HorizontalAlignment="Left" Margin="96,172,0,0" VerticalAlignment="Top" Width="93" Click="btn_exit_Click"/>
+
+    </Grid>
+</Window>

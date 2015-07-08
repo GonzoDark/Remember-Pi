@@ -1,0 +1,15 @@
+C:\Users\GonzoDark\Documents\Visual Studio 2013\Projects\Remember Pi\Remember Pi\bin\Debug\Remember Pi.exe.config
+C:\Users\GonzoDark\Documents\Visual Studio 2013\Projects\Remember Pi\Remember Pi\obj\Debug\Game.baml
+C:\Users\GonzoDark\Documents\Visual Studio 2013\Projects\Remember Pi\Remember Pi\obj\Debug\MainWindow.baml
+C:\Users\GonzoDark\Documents\Visual Studio 2013\Projects\Remember Pi\Remember Pi\obj\Debug\Game.g.cs
+C:\Users\GonzoDark\Documents\Visual Studio 2013\Projects\Remember Pi\Remember Pi\obj\Debug\MainWindow.g.cs
+C:\Users\GonzoDark\Documents\Visual Studio 2013\Projects\Remember Pi\Remember Pi\obj\Debug\App.g.cs
+C:\Users\GonzoDark\Documents\Visual Studio 2013\Projects\Remember Pi\Remember Pi\obj\Debug\Remember Pi_MarkupCompile.cache
+C:\Users\GonzoDark\Documents\Visual Studio 2013\Projects\Remember Pi\Remember Pi\obj\Debug\Remember Pi.g.resources
+C:\Users\GonzoDark\Documents\Visual Studio 2013\Projects\Remember Pi\Remember Pi\obj\Debug\Remember_Pi.Properties.Resources.resources
+C:\Users\GonzoDark\Documents\Visual Studio 2013\Projects\Remember Pi\Remember Pi\obj\Debug\Remember Pi.csproj.GenerateResource.Cache
+C:\Users\GonzoDark\Documents\Visual Studio 2013\Projects\Remember Pi\Remember Pi\bin\Debug\Remember Pi.exe
+C:\Users\GonzoDark\Documents\Visual Studio 2013\Projects\Remember Pi\Remember Pi\bin\Debug\Remember Pi.pdb
+C:\Users\GonzoDark\Documents\Visual Studio 2013\Projects\Remember Pi\Remember Pi\obj\Debug\Remember Pi.exe
+C:\Users\GonzoDark\Documents\Visual Studio 2013\Projects\Remember Pi\Remember Pi\obj\Debug\Remember Pi.pdb
+C:\Users\GonzoDark\Documents\Visual Studio 2013\Projects\Remember Pi\Remember Pi\obj\Debug\Remember Pi.csprojResolveAssemblyReference.cache
