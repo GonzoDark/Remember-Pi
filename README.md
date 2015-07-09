@@ -1,5 +1,5 @@
 # Title: Remember Pi
-# Auther: GonzoDark
+# Author: GonzoDark
 
 Future Features:
 * Tutorial
