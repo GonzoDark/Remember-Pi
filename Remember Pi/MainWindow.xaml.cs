@@ -58,31 +58,32 @@ namespace Remember_Pi
         private void btn_tutorial_Click(object sender, RoutedEventArgs e)
         {
            //MessageBox.Show("Not implemented yet, go google Pi for now.","Notice");
-            Tutorial g = new Tutorial();
+           // Tutorial g = new Tutorial();
 
-           // string pi = PI.pi;            
-           // int start = 0;
-           // int end = 10;
-           // string test = "";
-           // string newpi = "";
-           ////formatted pi = pi with an interval of 10.
-           // for (int i = 0; i < PI.pi.Length; i++)
-           // {
-           //     newpi = PI.pi.Substring(start, end);
-           //     test = newpi + "\n";
-           //     start = start + 10;
-           //     end = end + 10;
-           // }
+            // string pi = PI.pi;            
+            // int start = 0;
+            // int end = 10;
+            // string test = "";
+            // string newpi = "";
+            ////formatted pi = pi with an interval of 10.
+            // for (int i = 0; i < PI.pi.Length; i++)
+            // {
+            //     newpi = PI.pi.Substring(start, end);
+            //     test = newpi + "\n";
+            //     start = start + 10;
+            //     end = end + 10;
+            // }
 
 
-            g.label_showpi.Content = PI.pi;
+           // g.label_showpi.Content = "Not implemented yet, use Google for now!";
 
-            g.Left = this.Left;
-            g.Top = this.Top;
-            this.Hide();
-            g.ShowDialog();
-            this.Left = g.Left;
-            this.Top = g.Top;
+           // g.Left = this.Left;
+           // g.Top = this.Top;
+           // this.Hide();
+           // g.ShowDialog();
+           // this.Left = g.Left;
+           // this.Top = g.Top;
+            MessageBox.Show("Not implemented yet, use Google for now!","Notice");
             this.Show();
 
         }
